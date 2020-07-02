@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 ulang:
-// function change(){
+function change(){
 echo color("green","                       JHON COFFEE\n");
 echo color("green","                  OJOK LALI NGOPI'O BROW         \n");                
         $nama = nama();
